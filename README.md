@@ -12,6 +12,7 @@ Follow the below link to install hyperledger fabric
 https://hyperledger.github.io/composer/latest/installing/installing-prereqs
 
 ***Development Environment***
+
 https://hyperledger.github.io/composer/latest/installing/development-tools
 
 ### Demo Application ###
@@ -72,9 +73,10 @@ Open Terminal and Go to fabric-dev-servers location and run ./startFabric.sh
    ![fabric-test-transcation.png](fabric-test-transcation.png)
    
  10. Export the busniess nextwork from the composer playground portal. Click Export link
+ 
      ```
-    demo-test-network.bna
-    ```
+     demo-test-network.bna
+     ```
  11. Export the busniess card for network install from the composer playground.
 
      In this application, I have created busniess card name as ***admin@demo-test-network*** initally.
